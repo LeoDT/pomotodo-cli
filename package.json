@@ -4,7 +4,8 @@
   "description": "pomotodo in cli",
   "main": "index.js",
   "bin": {
-    "pomo": "bin/pomo.js"
+      "pomo": "bin/pomo.js",
+      "todo": "bin/todo.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +23,7 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "keypress": "^0.2.1",
-    "readline2": "^0.1.0"
+    "readline2": "^0.1.0",
+    "yargs": "^1.3.1"
   }
 }
