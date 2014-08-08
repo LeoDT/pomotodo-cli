@@ -1,0 +1,27 @@
+{
+  "name": "pomotodo-cli",
+  "version": "0.0.0",
+  "description": "pomotodo in cli",
+  "main": "index.js",
+  "bin": {
+    "pomo": "bin/pomo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeoDT/pomotodo-cli.git"
+  },
+  "author": "LeoDT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoDT/pomotodo-cli/issues"
+  },
+  "homepage": "https://github.com/LeoDT/pomotodo-cli",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "keypress": "^0.2.1",
+    "readline2": "^0.1.0"
+  }
+}
