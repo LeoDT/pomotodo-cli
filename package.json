@@ -1,11 +1,11 @@
 {
   "name": "pomotodo-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "pomotodo in cli",
   "main": "index.js",
   "bin": {
-    "pomo": "bin/pomo.js",
-    "todo": "bin/todo.js"
+    "pp": "bin/pomo.js",
+    "pt": "bin/todo.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,8 +1,4 @@
 pomotodo-cli
 ============
 
-just pomotodo in cli
-
-## todo
-- [ ] pomo
-- [ ] todo
+[pomotodo](https://pomotodo.com/) in cli
